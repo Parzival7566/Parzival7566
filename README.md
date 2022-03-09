@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parzival7566
 - 👀 I’m interested in Learning new programming languages, Game Development, Data Science, Deep Learning
-- 🌱 I’m currently learning C,C++
+- 🌱 I’m currently learning C,C++,Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
